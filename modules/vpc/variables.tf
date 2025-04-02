@@ -3,6 +3,6 @@ variable "cidr_block" {
   type        = string
 }
 variable "vpc_name" {
-  description = "Nombre de la VPC"
+  description = "Nombre VPC"
   type        = string
 }
